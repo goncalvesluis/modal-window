@@ -38,5 +38,7 @@ btnCloseModal.addEventListener("click", closeModal); // fermer avec la croix
 overlay.addEventListener("click", closeModal); // fermer en clicant en dehors la boite
 ```
 
+## 4 Ajouter le 
+
 ## Travailler les classes CSS avec JavaScript
 // Combiner le **CSS** avec le **Javascript** permet de faire functionner cette modal-window, c'est en "jouant" avec les classes `.hidden` qu'on peut le faire functionner. C'est très important d'avoir cette mecanique car c'est très important pour faire functionner ce genre d'elements.
